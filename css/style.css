@@ -10,7 +10,7 @@
 }
 
 .menu-logo img{
-    width: 30px;
+    width: 50px;
 }
 
 h1, h2, h3, h5, h6, p, a {
@@ -853,8 +853,7 @@ body {
 }
 
 .container-item:nth-child(2) img {
-  width: 300px;
-  height: 500px;
+  max-width: 300px;
 }
 
 .bg-hero {
