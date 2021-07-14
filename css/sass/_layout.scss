@@ -7,6 +7,10 @@
     justify-content: space-between;
 
     padding: 48px 16px;
+    
+    img-logo{
+        max-width: 50px;
+    }
 }
 
 @media screen and (max-width: 960px){
@@ -16,10 +20,6 @@
     .menu-right{
         display: none;
     }
-}
-
-img-logo{
-        max-width: 100px;
 }
 
 // CONTAINER
