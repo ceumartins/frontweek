@@ -9,8 +9,14 @@
   color: #777;
 }
 
-h1, h2, h3, h4, h5, h6, p, a {
-  font-family: 'Barlow Condensed', sans-serif;
+h1, h2, h3, h5, h6, p, a {
+  font-family: 'Zilla Slab', serif;
+  color: #F5F7F7;
+  font-weight: 400;
+}
+
+h4 {
+  font-family: 'Lobster', cursive;
   color: #F5F7F7;
   font-weight: 400;
 }
